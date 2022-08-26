@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hook-usestate/static/css/main.189eaf6b.css",
+    "main.js": "/hook-usestate/static/js/main.5159e244.js",
+    "static/media/simulBci.jpg": "/hook-usestate/static/media/simulBci.df442fae0d805503efee.jpg",
+    "index.html": "/hook-usestate/index.html",
+    "main.189eaf6b.css.map": "/hook-usestate/static/css/main.189eaf6b.css.map",
+    "main.5159e244.js.map": "/hook-usestate/static/js/main.5159e244.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189eaf6b.css",
+    "static/js/main.5159e244.js"
+  ]
+}
